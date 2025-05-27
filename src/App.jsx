@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Header } from './components/header'
+import { Header } from './components/Header'
 import { Poise } from './components/Poise'
 import { Poise2 } from './components/Poise2'
 
